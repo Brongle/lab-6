@@ -1,9 +1,6 @@
-#onpage {
-	text-decoration: underline overline;
-}
 #main-navbar {
 	background-color:blue;
-	overflow hidden;
+	overflow: hidden;
 }
 #navbar-container {
 	float:left;
@@ -32,6 +29,9 @@
 }
 #main-navbar ul li a:hover {
 	background-color:#000;
+}
+#onpage {
+	text-decoration: underline overline;
 }
 #sidebar {
 	position:fixed;
